@@ -22,3 +22,6 @@ The dataset provided is related to IMDB Movies. A potential problem to investiga
 
 (D) **Report and Data Story:** After your analysis, you'll create a report that tells a story with your data. This should include your initial problem, your findings, and the insights you've gained. Use visualizations to help tell your story and make your findings more understandable.
 
+**DATASET:**
+https://drive.google.com/file/d/1XpGThHzLnXxL_7aQo2sCpYL3SeB18MMB/view
+
